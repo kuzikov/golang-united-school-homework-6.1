@@ -1,4 +1,4 @@
-# golang-united-school-homework-6.1
+p# golang-united-school-homework-6.1
 
 Inside this repo you can find boilerplate code with comments that describe expected behavior of methods.
 
